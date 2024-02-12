@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Mathias
+
+- 🔭 I’m currently working as an AI Engineer @ IBM 
+- 🌱 I’m currently learning front-end engineering
+- 👯 I’m looking to collaborate on open source tools such as Open Quantum and PyTorch
+- 💬 Ask me about generative AI, natural language processing, and productionizing machine learning models
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Studied in Japan and enjoys bouldering!
+- 📫 How to reach me: <a href="https://linkedin.com/in/mathiasdsouza"><img src="https://img.shields.io/badge/-Mathias%20D'souza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <!--
 **ds-mathias/ds-mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
