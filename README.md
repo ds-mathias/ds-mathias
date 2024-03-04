@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mathias
 
 - 🔭 I’m currently working as an AI Engineer @ IBM 
-- 🌱 I’m currently learning front-end engineering
+- 🌱 I have been learning full-stack web development for the past two years
 - 👯 I’m looking to collaborate on open source tools such as Open Quantum and PyTorch
 - 💬 Ask me about generative AI, natural language processing, and productionizing machine learning models
 - 😄 Pronouns: He/Him
